@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Design Studio"
+  short_description: "Image 驱动 UI 设计、视觉资产、组件复用与交互减负"
+  default_prompt: "使用 $frontend-design-studio 处理当前界面：先理解需求与任务路径，保留我认可的视觉语言；调用 Image 设计并独立评审，优化视觉和操作成本，实施后完成真实页面与完整任务验收。"
