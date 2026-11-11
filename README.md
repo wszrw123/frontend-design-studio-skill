@@ -14,7 +14,7 @@
 
 ## 目录结构
 
-\`\`\`text
+```text
 frontend-design-studio-skill/
 ├── SKILL.md
 ├── README.md
@@ -36,33 +36,33 @@ frontend-design-studio-skill/
 │   └── visual-qa-report.md
 └── examples/
     └── example-requests.md
-\`\`\`
+```
 
 ## 安装
 
 ### Codex / Agent Skills
 
-将整个仓库克隆或下载到 Agent Skills 目录，并确保 \`SKILL.md\` 位于 Skill 根目录。常见个人目录为：
+将整个仓库克隆或下载到 Agent Skills 目录，并确保 `SKILL.md` 位于 Skill 根目录。常见个人目录为：
 
-\`\`\`text
+```text
 ~/.agents/skills/frontend-design-studio/SKILL.md
-\`\`\`
+```
 
 也可放入项目级目录：
 
-\`\`\`text
+```text
 <project>/.agents/skills/frontend-design-studio/SKILL.md
-\`\`\`
+```
 
 如果你的运行环境使用不同的 Skills 搜索目录，请按该环境的安装约定放置整个目录。
 
 ### 使用示例
 
-\`\`\`text
+```text
 使用 frontend-design-studio skill，先理解本次优化目标，再分析当前页面。
 以当前真实页面截图为参考，调用 Image 生成高保真重设计稿；盘点可复用组件和视觉资产，
 缺少合适图标/背景/插画时必须生成，不要用符号或 Emoji 代替；完成代码实现并进行真实浏览器验收。
-\`\`\`
+```
 
 ## 重要约束
 
@@ -74,6 +74,6 @@ frontend-design-studio-skill/
 
 ## 版本
 
-- Skill：\`1.0.0\`
-- 设计架构：\`V1.1\`
+- Skill：`1.0.0`
+- 设计架构：`V1.1`
 - 变更记录见 [CHANGELOG.md](CHANGELOG.md)。
