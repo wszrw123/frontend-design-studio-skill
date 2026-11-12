@@ -1,4 +1,4 @@
 interface:
   display_name: "Frontend Design Studio"
-  short_description: "Image 驱动 UI 设计、视觉资产、组件复用与交互减负"
-  default_prompt: "使用 $frontend-design-studio 处理当前界面：先理解需求与任务路径，保留我认可的视觉语言；调用 Image 设计并独立评审，优化视觉和操作成本，实施后完成真实页面与完整任务验收。"
+  short_description: "Image-led frontend product design, reusable components, interaction optimization, and real-browser QA"
+  default_prompt: "Use $frontend-design-studio to improve the current product experience: understand requirements and user tasks, preserve approved visual language, generate and critique an Image-led design, optimize interaction cost, reuse shared components, implement within scope, and verify the real browser result."
